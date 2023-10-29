@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(36, 35, 35);
+}
+h1,h3{
+    text-align: center;
+    color: white;
+}
+
+table {
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgb(58, 132, 206);
+    width: 50%;
+    border-collapse: collapse;
+}
+
+tr,
+td,
+th {
+    border: 1px solid black;
+    margin: 8px;
+    text-align: center;
+    border-style: solid;
+    color: white;
+    height: 50px;
+}
